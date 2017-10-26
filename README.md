@@ -10,4 +10,4 @@ Profile Picture | Name | Grade | GitHub username
 | <img src = "http://www.tntemple.edu/application/images/events/frisbee.jpg" width=100  height=100/> | Aaron Li | 11 | aaronli39 |
 | <img src="https://img00.deviantart.net/a383/i/2011/123/d/6/meh_demons_souls_wallpaper_by_hitokiriex-d3fhfdd.jpg" width=100/> | Mohammed Jamil | 11 | Zer0-M |
 | <img src="http://i63.tinypic.com/2ni8acz.png" width=100/> | En Yu Zhang | 11 | ezhang3 |
-
+| <img src="https://avatars1.githubusercontent.com/u/24882287?s=400&v=4" width=100/> | Darius Jankauskas | 10 | DJankauskas |
