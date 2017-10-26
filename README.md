@@ -11,5 +11,4 @@ Profile Picture | Name | Grade | GitHub username
 | <img src="https://img00.deviantart.net/a383/i/2011/123/d/6/meh_demons_souls_wallpaper_by_hitokiriex-d3fhfdd.jpg" width=100/> | Mohammed Jamil | 11 | Zer0-M |
 | <img src="http://i63.tinypic.com/2ni8acz.png" width=100/> | En Yu Zhang | 11 | ezhang3 |
  ![alt text](https://github.com/RubbrDuck.png?size=100) | Jonathan Lee | 9 | RubbrDuck |
-=======
 | <img src="https://avatars1.githubusercontent.com/u/24882287?s=400&v=4" width=100/> | Darius Jankauskas | 10 | DJankauskas |
