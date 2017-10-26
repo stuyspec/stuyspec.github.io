@@ -9,3 +9,4 @@ Profile Picture | Name | Grade | GitHub username
 | <img src="https://scontent-lga3-1.xx.fbcdn.net/v/t31.0-8/14991415_371212189881969_1034917025304409054_o.jpg?oh=02c06175c572c6010ee0ed287229fb78&oe=5A81451F" width=100/> | Emily Zhang | 10 | emz1003 |
 | <img src="https://img00.deviantart.net/a383/i/2011/123/d/6/meh_demons_souls_wallpaper_by_hitokiriex-d3fhfdd.jpg" width=100/> | Mohammed Jamil | 11 | Zer0-M |
 | <img src="http://i63.tinypic.com/2ni8acz.png" width=100/> | En Yu Zhang | 11 | ezhang3 |
+ ![alt text](https://github.com/RubbrDuck.png?size=100) | Jonathan Lee | 9 | RubbrDuck |
