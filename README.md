@@ -16,3 +16,4 @@ Profile Picture | Name | Grade | GitHub username
 | <img src="https://avatars2.githubusercontent.com/u/19398896?s=400&v=4" width=100/> | Ruoshui | 9 | ruoshuim |
 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Font_R.svg/490px-Font_R.svg.png" width=100 height =100/> | Ray Onishi | 11 | ronishi1 |
 | <img src="https://avatars2.githubusercontent.com/u/29084712?s=400&u=5e567798bfc91c4236d71f6f2dfaeed5493a7936&v=4" width=100 height =100/> | Jack Lu | 11 | JackLu1 |
+| <img src="goo.gl/57JirB" width=100 height=100/> | Raymond Wu | 11 | raywu6 |
