@@ -19,4 +19,4 @@ Profile Picture | Name | Grade | GitHub username
 | <img src="https://avatars2.githubusercontent.com/u/29084712?s=400&u=5e567798bfc91c4236d71f6f2dfaeed5493a7936&v=4"> | Jack Lu | 11 | JackLu1 |
 | <img src="http://reface.me/wp-content/uploads/default-facebook-avatar-male.gif" width=100 height =100/> | Jerry Ye | 11 | jerry1ye10 |
 | <img src="https://avatars0.githubusercontent.com/u/33106808?s=40&v=4" width=100 height =100/> | Rachel Joh | 9 | zFood |
-| <img src="https://openclipart.org/image/2400px/svg_to_png/190865/owl-cute.png" width=100 height=100/> | Cathy Cai | 11 | ccai1 |
+| <img src="http://cliparts.co/cliparts/BTg/EAA/BTgEAA5T8.png" width=100 height=100/> | Cathy Cai | 11 | ccai1 |
