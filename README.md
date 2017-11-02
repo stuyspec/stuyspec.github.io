@@ -15,3 +15,4 @@ Profile Picture | Name | Grade | GitHub username
 | <img src="http://www.petsworld.in/blog/wp-content/uploads/2015/03/How-To-Make-Your-Puppy-Gain-Weight.jpg" width=100/> | Sabrina Xiao | 11 | sxiao1 |
 | <img src="https://avatars2.githubusercontent.com/u/19398896?s=400&v=4" width=100/> | Ruoshui | 9 | ruoshuim |
 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Font_R.svg/490px-Font_R.svg.png" width=100 height =100/> | Ray Onishi | 11 | ronishi1 |
+| <img src="https://avatars1.githubusercontent.com/u/22405854?s=400&u=9c8ac560023e2cf240dce82a2a8cc9b9ac6ceb93&v=4" width=100 height =100/> | Raunak Chowdhury | 11 | Saphyris |
