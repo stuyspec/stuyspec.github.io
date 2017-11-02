@@ -16,3 +16,8 @@ Profile Picture | Name | Grade | GitHub username
 | <img src="https://avatars2.githubusercontent.com/u/19398896?s=400&v=4" width=100/> | Ruoshui | 9 | ruoshuim |
 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Font_R.svg/490px-Font_R.svg.png" width=100 height =100/> | Ray Onishi | 11 | ronishi1 |
 | <img src="https://avatars1.githubusercontent.com/u/22405854?s=400&u=9c8ac560023e2cf240dce82a2a8cc9b9ac6ceb93&v=4" width=100 height =100/> | Raunak Chowdhury | 11 | Saphyris |
+| <img src="https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-9/18953061_1367320246678851_7067646799775001159_n.jpg?oh=5b222bbc71448feacf551472b7d41c36&oe=5A543E7B" width=100 height=100/> | Raymond Wu | 11 | raywu6 |
+| <img src="https://avatars2.githubusercontent.com/u/29084712?s=400&u=5e567798bfc91c4236d71f6f2dfaeed5493a7936&v=4"> | Jack Lu | 11 | JackLu1 |
+| <img src="http://reface.me/wp-content/uploads/default-facebook-avatar-male.gif" width=100 height =100/> | Jerry Ye | 11 | jerry1ye10 |
+| <img src="https://avatars0.githubusercontent.com/u/33106808?s=40&v=4" width=100 height =100/> | Rachel Joh | 9 | zFood |
+| <img src="http://cliparts.co/cliparts/BTg/EAA/BTgEAA5T8.png" width=100 height=100/> | Cathy Cai | 11 | ccai1 |
