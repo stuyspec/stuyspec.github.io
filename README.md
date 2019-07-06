@@ -15,3 +15,4 @@ Profile Picture | Name | Grade | GitHub username
 | <img src="https://avatars1.githubusercontent.com/u/52556265?s=460&v=4" width=100/> | Ryan Wang | 9 | RyanWang-beep |
 | <img src="https://avatars1.githubusercontent.com/u/33766046?s=400&v=4" width=100/> | Cynthia Or | 11 | cor10 |
 | <img src="https://avatars3.githubusercontent.com/u/52516296?s=400&v=4" width=100/> | Mary Shang | 11 | sshaang |
+| <img src="https://avatars2.githubusercontent.com/u/34371635?s=400&v=4" width=100/> | Minuk Kim | 11 | mkim01 |
