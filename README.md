@@ -12,4 +12,4 @@ Profile Picture | Name | Grade | GitHub username
 | <img src="https://avatars2.githubusercontent.com/u/23643013?s=460&v=4" width=100/> | Kazi Jamal | 11 | kazijamal |
 | <img src="https://avatars2.githubusercontent.com/u/36079138?s=400&v=4" width=100/> | Kevin Chen | 11 | Kevin3719 |
 | <img src="https://avatars0.githubusercontent.com/u/42145698?s=460&v=4" width=100/> | Sandy Tan | 11 | sandytan10 |
-| <img src="https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwiB85rBr6HjAhUqvlkKHSd-AjYQjRx6BAgBEAU&url=https%3A%2F%2Fliquipedia.net%2Foverwatch%2FDafran&psig=AOvVaw0Y5_XZYpmtQ_uyU97cEjlp&ust=1562539524221661" width=100/> | Gerard Lin | 9 | glin22 |
+| <img src="https://liquipedia.net/overwatch/File:Atlantadafran.png" width=100/> | Gerard Lin | 9 | glin22 |
