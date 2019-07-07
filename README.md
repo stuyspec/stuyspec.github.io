@@ -18,3 +18,4 @@ Profile Picture | Name | Grade | GitHub username
 | <img src="https://avatars3.githubusercontent.com/u/52516296?s=400&v=4" width=100/> | Mary Shang | 11 | sshaang |
 | <img src="https://avatars2.githubusercontent.com/u/34371635?s=400&v=4" width=100/> | Minuk Kim | 11 | mkim01 |
 | <img src="https://avatars3.githubusercontent.com/u/21613202?s=460&v=4" width=100/> | Madelyn Mao | 11 | madelynxmao |
+| <img src="https://avatars0.githubusercontent.com/u/52611169?s=400&v=4" width=100/> | Moinak Das | 11 | mdas10 |
