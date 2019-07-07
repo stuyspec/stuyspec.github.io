@@ -3,6 +3,7 @@ Welcome new recruits! Add a profile picture, full name, grade, and GitHub userna
 
 Profile Picture | Name | Grade | GitHub username
 ---|---|---|---
+| <img src="https://avatars3.githubusercontent.com/u/24532836?s=460&v=4" width=100/> | Michael Zhang | 11 | mzhang00
 | <img src="https://avatars1.githubusercontent.com/u/52429488?s=400&v=4" width=100/> | Stephanie Fulcar | 11 | StephanieFulcar
 | <img src="https://avatars1.githubusercontent.com/u/24882287?s=400&v=4" width=100/> | Darius Jankauskas | 11 | DJankauskas |
 | <img src="https://avatars0.githubusercontent.com/u/52434711?s=400&v=4" width=100/> | Jacky Chen | 11 | jchen126 |
